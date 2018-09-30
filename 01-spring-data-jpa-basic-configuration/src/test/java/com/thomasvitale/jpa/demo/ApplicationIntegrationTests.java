@@ -17,7 +17,7 @@ import static org.junit.Assert.assertNull;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoApplicationIntegrationTests {
+public class ApplicationIntegrationTests {
 
 	@Autowired
 	private PersonRepository personRepository;
